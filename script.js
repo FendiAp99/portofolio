@@ -48,8 +48,8 @@ document.addEventListener('click', (e) => {
 const texts = [
     "FRESH GRADUATE",
     "JUNIOR WEB PROGRAMMER",
-    // "CONTENT CREATOR", 
-    // "UI/UX DESIGNER",
+    "CONTENT CREATOR", 
+    "UI/UX DESIGNER",
 ];
 
 let textIndex = 0;
